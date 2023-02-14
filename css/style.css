@@ -8989,7 +8989,7 @@ color: #fff;
 
 #container-card {
   text-align: center;
-  margin: 0px 60px 0px 60px;
+  margin: 0px 60px 0px 43px;
   padding: 18px 0;
   border-bottom: #000;
   width: 80%;
@@ -9343,7 +9343,8 @@ hr.solid-second{
   .container-card{
     margin-left: auto;
     margin-right: auto;
-    align: center !important;
+    align-items: center !important;
+   
   }
   .faculty-cards{
     width: 100% !important;
