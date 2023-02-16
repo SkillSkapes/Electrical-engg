@@ -9104,7 +9104,7 @@ text-transform: lowercase;
 /* chairperson page */
 
 .chair-banner{
-  background: linear-gradient(#000, rgba(0, 0, 0, 0.6)), url('/images/chairperson.jpg');
+  background: linear-gradient(#000, rgba(0, 0, 0, 0.6)), url('../images/chairperson.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 30vh;
