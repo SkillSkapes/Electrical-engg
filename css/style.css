@@ -9022,7 +9022,6 @@ color: #fff;
 .item a:hover{
   color: #000;
 }
-
 .faculty-cards {
   transition: 0.3s;
   width: 100%;
@@ -9031,8 +9030,7 @@ color: #fff;
 .prof-img-row{
   padding: 22px 0;
 }
-
-  .name .faculty_name{
+ .name .faculty_name{
     font-size: 20px;
     margin-bottom: 0 !important;
     color: #000;
